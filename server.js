@@ -6,7 +6,7 @@
 * 
 *  Name: Param Katrodia    Student ID: 112126222   Date: 07/12/24
 *
-*  Online (Cyclic) URL: https://encouraging-fish-pocketbook.cyclic.app/blog
+*  Online (Cyclic) URL: https://dull-lime-cricket-kit.cyclic.app
 *
 ********************************************************************************/ 
 
